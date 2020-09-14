@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Gauthier</title>
+    <link>https://www.samuelgauthier.com/</link>
+    <description>Recent content on Samuel Gauthier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.samuelgauthier.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://www.samuelgauthier.com/about/</link>
+      <pubDate>Mon, 14 Sep 2020 14:24:59 +0200</pubDate>
+      
+      <guid>https://www.samuelgauthier.com/about/</guid>
+      <description>Prior to joining Zühlke, Samuel completed his B.Sc. in Computer Science with specialization in Computer Perception and Virtual Reality at the Bern University of Applied Science. Passionate about computer graphics and good design, he loves to create new challenging software and games. During his free time he plays volleyball in a regional league.
+LinkedIn / Github / ArtStation</description>
+    </item>
+    
+    <item>
+      <title>Page not found</title>
+      <link>https://www.samuelgauthier.com/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.samuelgauthier.com/404/</guid>
+      <description>The page can&#39;t be found.</description>
+    </item>
+    
+  </channel>
+</rss>

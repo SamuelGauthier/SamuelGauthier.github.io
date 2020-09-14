@@ -3,24 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>samuelgauthier.github.io.git/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-09-14T14:24:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>samuelgauthier.github.io.git/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>samuelgauthier.github.io.git/404/</loc>
+    <loc>/404/</loc>
   </url>
   
   <url>
-    <loc>samuelgauthier.github.io.git/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>samuelgauthier.github.io.git/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

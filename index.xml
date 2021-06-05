@@ -6,10 +6,7 @@
     <description>Recent content on Samuel Gauthier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>/about/</link>
@@ -18,6 +15,32 @@
       <guid>/about/</guid>
       <description>Prior to joining Zühlke, Samuel completed his B.Sc. in Computer Science with specialization in Computer Perception and Virtual Reality at the Bern University of Applied Science. Passionate about computer graphics and good design, he loves to create new challenging software and games. During his free time he plays volleyball in a regional league.
 LinkedIn / Github / ArtStation</description>
+    </item>
+    
+    <item>
+      <title>Volleyboys Bienne Website</title>
+      <link>/projects/volleyboys/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/volleyboys/</guid>
+      <description>&lt;div class=&#34;document&#34;&gt;
+
+
+&lt;p&gt;Complete Redesign of the Volleyboys Bienne Sports Team Webpage&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Logo Design for Platewallet</title>
+      <link>/projects/platewallet_logo/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/platewallet_logo/</guid>
+      <description>&lt;div class=&#34;document&#34;&gt;
+
+
+&lt;p&gt;Logo Design for a Swiss Contactless Payment Startup&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>

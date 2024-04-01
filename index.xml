@@ -6,51 +6,35 @@
     <description>Recent content on Samuel Gauthier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Sep 2020 14:24:59 +0200</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Mon, 14 Sep 2020 14:24:59 +0200</pubDate>
-      
       <guid>/about/</guid>
-      <description>Prior to joining Zühlke, Samuel completed his B.Sc. in Computer Science with specialization in Computer Perception and Virtual Reality at the Bern University of Applied Science. Passionate about computer graphics and good design, he loves to create new challenging software and games. During his free time he plays volleyball in a regional league.
-LinkedIn / Github / ArtStation</description>
+      <description>Enthusiastic about crafting exceptional code and designs, I merge these interests during the day through working on C++ code, while also delving into lower-level tasks when needed. By night, I explore game engines and languages like Rust, honing my skills to create games and tools. Outside of technology, I enjoy playing volleyball as a setter and experimenting with French pastries, Indian, and Lebanese cuisine in my kitchen.&#xA;LinkedIn / Github / ArtStation</description>
     </item>
-    
     <item>
       <title>Volleyboys Bienne Website</title>
       <link>/projects/volleyboys/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>/projects/volleyboys/</guid>
-      <description>&lt;div class=&#34;document&#34;&gt;
-
-
-&lt;p&gt;Complete Redesign of the Volleyboys Bienne Sports Team Webpage&lt;/p&gt;
-&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;document&#34;&gt;&#xA;&#xA;&#xA;&lt;p&gt;Complete Redesign of the Volleyboys Bienne Sports Team Webpage&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>Logo Design for Platewallet</title>
       <link>/projects/platewallet_logo/</link>
       <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/projects/platewallet_logo/</guid>
-      <description>&lt;div class=&#34;document&#34;&gt;
-
-
-&lt;p&gt;Logo Design for a Swiss Contactless Payment Startup&lt;/p&gt;
-&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;document&#34;&gt;&#xA;&#xA;&#xA;&lt;p&gt;Logo Design for a Swiss Contactless Payment Startup&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>Page not found</title>
       <link>/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/404/</guid>
       <description>The page can&#39;t be found.</description>
     </item>
-    
   </channel>
 </rss>
